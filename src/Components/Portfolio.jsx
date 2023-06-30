@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "YouTube Clone",
+    description: "A clone project built using React.js, Material UI, and Rapid API.",
+    url: "https://github.com/Yukti-J/Youtube-Clone",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Text Utils",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "React based text editing application. With features like= Upper Case, Lower Case, Capitalize, Erase, Bold, Italics, Word, character and sentence count",
+    url: "https://github.com/Yukti-J/TextUtils",
   },
   {
-    title: "My Resume Site",
+    title: "E-Commerce Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "An E-commerce website with firebase authentication, data fetching and uploading functionalities.",
+    url: "https://github.com/Yukti-J/React-Ecommerce",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Landing Page",
+    description: "A book store landing page. Built using HTML and CSS.",
+    url: "https://github.com/Yukti-J/OCTANET_JUNE",
   },
 ];
 
